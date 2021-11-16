@@ -1,0 +1,2 @@
+# parseXLSXDemo
+解析翻译字段的excel处理成app国际化需要的文件
