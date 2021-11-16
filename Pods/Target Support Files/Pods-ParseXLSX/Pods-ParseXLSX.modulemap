@@ -1,0 +1,6 @@
+module Pods_ParseXLSX {
+  umbrella header "Pods-ParseXLSX-umbrella.h"
+
+  export *
+  module * { export * }
+}
